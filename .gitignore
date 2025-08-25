@@ -10,7 +10,6 @@ env/
 *.pot
 *.pyc
 __pycache__/
-setings.py
 
 # Flutter
 mobile_app/.dart_tool/
